@@ -1,0 +1,7 @@
+C:\Users\falco\source\repos\Propiedades C#\Propiedades C#\bin\Debug\Propiedades C#.exe.config
+C:\Users\falco\source\repos\Propiedades C#\Propiedades C#\bin\Debug\Propiedades C#.exe
+C:\Users\falco\source\repos\Propiedades C#\Propiedades C#\bin\Debug\Propiedades C#.pdb
+C:\Users\falco\source\repos\Propiedades C#\Propiedades C#\obj\Debug\Propiedades C#.csproj.AssemblyReference.cache
+C:\Users\falco\source\repos\Propiedades C#\Propiedades C#\obj\Debug\Propiedades C#.csproj.CoreCompileInputs.cache
+C:\Users\falco\source\repos\Propiedades C#\Propiedades C#\obj\Debug\Propiedades C#.exe
+C:\Users\falco\source\repos\Propiedades C#\Propiedades C#\obj\Debug\Propiedades C#.pdb
